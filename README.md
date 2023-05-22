@@ -1,7 +1,7 @@
 # SpringBlog
 ### 개발 기간 : 2023.03~2023.04 (1개월)
 ### 개발 인원 : 1인 
-### 목표 : 스프링부트, JPA, Ajax를 공부하기 위함
+### 목표 : 스프링부트, JPA, Security, Ajax를 공부하기 위함
 ---
 
 #### 언어 : JAVA(JDK 11), BootStrap, JavaScript

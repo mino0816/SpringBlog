@@ -15,3 +15,4 @@
 ![상세페이지](https://github.com/mino0816/SpringBlog/assets/124946631/7020a202-799e-49f3-b04a-11b348d4b48c)
 
 ---
+https://www.youtube.com/watch?v=dW3P5ADYACM
